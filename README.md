@@ -1,38 +1,18 @@
-- 👋 Hi, I’m @final-Year-Project-Thesis-Help
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-final-Year-Project-Thesis-Help/final-Year-Project-Thesis-Help is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-👀 Follow us on Facebook:
-Page :
-https://www.facebook.com/FinalYearProjectThesisHelp/
-Group: 
-https://www.facebook.com/groups/556796896630460/
-
-
-
-
 
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shamim-99728.web.app/) -->
 <h1 align="center">Hi 👋, Final Year Students</h1>
 <h3 align="center">We are driven by a mission to help your Project & Thesis paper for achieving your best result.</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.ibb.co/TRH2k2K/YTBanner-Final-Year.png"/>
+<img align="center" alt="coding" width="1000" src="https://i.ibb.co/TRH2k2K/YTBanner-Final-Year.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently working internationally **Any Domain -IOT/Thesis/Research/Project**
 
-- 👨‍💻 Portfolio [Checkout Our Reviews](https://www.facebook.com/FinalYearProjectThesisHelp))
+- 👨‍💻 Portfolio [FinalYearProjectThesisHelp](https://www.facebook.com/FinalYearProjectThesisHelp)
 
-- 👨‍💻 Facebook Group [[Our Fb Group]([https://www.facebook.com/FinalYearProjectThesisHelp)]
+- 👀 Follow us on Facebook: [Our Facebook Group](https://www.facebook.com/groups/556796896630460)
 - 
 - 📫 How to reach me **thesisprojecthelp@gmail.com**
 
