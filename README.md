@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, Final Year Students</h1>
 <h3 align="center">🎓 Aiming to offer top-notch service. Dive into expert guidance and support with us. Let's smoothly navigate your academic journey together towards success! 🚀</h3>
 
-<img align="center" alt="coding" width="900" src="https://i.ibb.co/TRH2k2K/YTBanner-Final-Year.png"/>
+<img align="center" alt="coding" width="900" src="https://ibb.co/F0P2vcK"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
