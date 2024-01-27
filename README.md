@@ -1,7 +1,7 @@
 
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shamim-99728.web.app/) -->
 <h1 align="center">Hi 👋, Final Year Students</h1>
-<h3 align="center">We are driven by a mission to help your Project & Thesis paper for achieving your best result.</h3>
+<h3 align="center">🎓 Aiming to offer top-notch service. Dive into expert guidance and support with us. Let's smoothly navigate your academic journey together towards success! 🚀</h3>
 
 <img align="center" alt="coding" width="900" src="https://i.ibb.co/TRH2k2K/YTBanner-Final-Year.png"/>
 
