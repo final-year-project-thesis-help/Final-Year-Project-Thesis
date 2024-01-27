@@ -1,26 +1,46 @@
 
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shamim-99728.web.app/) -->
 <h1 align="center">Hi 👋, Final Year Students</h1>
+<p align="center"> Are you a dedicated undergraduate, master's, or Ph.D. student with aspirations for a stellar thesis, research, IoT, practicum, or internship project? Look no further!</p>
 <h3 align="center">🎓 Aiming to offer top-notch service. Dive into expert guidance and support with us. Let's smoothly navigate your academic journey together towards success! 🚀</h3>
 
-<img align="center" alt="coding" width="900" src="https://i.ibb.co/5n7mDC6/thesissupport.png"/>
-
+<img align="center" alt="coding" width="900" hight="300" src="https://i.ibb.co/5n7mDC6/thesissupport.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working internationally **Any Domain -IOT/Thesis/Research/Project**
+ 🌱 We're currently working internationally **Any Domain - Thesis / Research / Project and IOT** <br/>
+ 👨‍💻 Portfolio [FinalYearProjectThesisHelp](https://www.facebook.com/FinalYearProjectThesisHelp)  <br/>
+ 👀 Follow us on Facebook: [Our Facebook Group](https://www.facebook.com/groups/556796896630460)  <br/>
+ 📫 Get free Consultation Do Whatsapp: **+8801518307036** <br/>
+ 📫 How to reach me **thesisprojecthelp@gmail.com** <br/>
 
-- 👨‍💻 Portfolio [FinalYearProjectThesisHelp](https://www.facebook.com/FinalYearProjectThesisHelp)
-- 👀 Follow us on Facebook: [Our Facebook Group](https://www.facebook.com/groups/556796896630460)
-- 📫 Get free Consultation Do whatsapp: +8801518307036
-- 📫 How to reach me **thesisprojecthelp@gmail.com**
+<h1 align="center">📌 Our Services 📌 </h1>
 
+🌟 **Thesis / Dissertation Support** 🌟 <br/>
+ ✅IOT-Based Project + Thesis <br/>
+ ✅AI-Based Project + Thesis <br/>
+ ✅ML-Based Project + Thesis <br/>
+ ✅Deep Learning Based Project + Thesis <br/>
+ ✅ Any kind of programing language Project. <br/>
 
-<h3 align="left">Connect with me:</h3>
+🌟 **Project + Practicum Internship Support** 🌟  <br/>
+ ✅Any Management System. <br/>
+ ✅Mobile Apps Development Project. <br/>
+ ✅Web Application Project. <br/>
+
+🌟 **Assignment & Report Writing Services**🌟  <br/>
+ ✅Any Subject + Any Topic Related. <br/>
+ ✅Plagiarism Free. <br/>
+ ✅Revision Granted. <br/>
+
+🖐We are here 24/7 ⏰ for your support 🍀 <br/>
+🔍For query, please text us on whatsapp🔎  <br/>
+☎️ +8801518307036  
+
+<h3 align="left">Contact with us:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/shamim-islam-bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamim-islam-bd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/FinalYearProjectThesisHelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FinalYearProjectThesisHelp" height="30" width="40" /></a>
 
 
